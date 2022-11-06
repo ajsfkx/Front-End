@@ -1,0 +1,60 @@
+h2 {
+  text-align: right;
+  font-size: 36px;
+  margin-top: 10px;
+}
+h1 {
+  margin-top: 10px;
+}
+
+.abs {
+  margin: 100px 50px 0px 50px;
+  padding: 20px;
+  border: 2px solid;
+  border-radius: 20px;
+  background: radial-gradient(
+    circle at 7.5% 24%,
+    rgb(237, 161, 193) 0%,
+    rgb(250, 178, 172) 25.5%,
+    rgb(190, 228, 210) 62.3%,
+    rgb(215, 248, 247) 93.8%
+  );
+}
+.abc {
+  text-align: center;
+  border: 3px solid;
+  margin: 10px;
+  border-radius: 5px;
+}
+h6 {
+  text-align: right;
+}
+
+.abc:hover {
+  background-color: beige;
+  border: 0px;
+  border-radius: 5px;
+}
+
+#exampleDataList {
+  background: radial-gradient(
+    circle at 0% 0.5%,
+    rgb(241, 241, 242) 0.1%,
+    rgb(224, 226, 228) 100.2%
+  );
+}
+.hum {
+  margin-top: -50px;
+  margin-left: 140px;
+}
+.win {
+  margin-left: 140px;
+}
+.sky {
+  margin-top: -10px;
+
+  margin-left: 10px;
+}
+#geolocation {
+  background-color: red;
+}
